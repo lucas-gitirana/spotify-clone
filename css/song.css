@@ -455,3 +455,19 @@ footer .volume-bar{
     opacity: .6;
 }
 
+.song-lyrics h2{
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.song-lyrics .lyrics{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    margin-block: 0;
+    color: #fff;
+    opacity: .6;
+    font-size: 0.9em;
+}
+
