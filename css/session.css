@@ -170,7 +170,7 @@ h1{
 }
 
 .navbar-footer{
-    background-color: #000;
+    background: transparent;
 }
 
 .navbar-footer a{
